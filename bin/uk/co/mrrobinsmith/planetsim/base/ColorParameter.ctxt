@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ value\ isAdjustable
+comment0.target=ColorParameter(java.lang.String,\ java.awt.Color,\ boolean)
+comment0.text=\n\ Creates\ a\ new\ ColorParameter,\ given\ a\ name\ for\ the\ parameter,\ Color\n\ object\ and\ a\ boolean\ value\ to\ indicate\ whether\ or\ not\ it\ is\ adjustable\n\ during\ simulation\ run-time.\n\ @param\ name\ the\ name.\n\ @param\ value\ the\ Color\ value.\n\ @param\ isDynamic\ true\ or\ false.\n
+comment1.params=
+comment1.target=java.awt.Color\ getValue()
+comment1.text=\n\ Gets\ the\ value\ of\ the\ ColorParameter.\n\ @return\ the\ Color\ value.\n
+comment2.params=value
+comment2.target=void\ setValue(java.awt.Color)
+comment2.text=\n\ Set\ the\ value\ of\ the\ ColorParameter.\n\ @param\ value\ the\ new\ Color\ value.\n
+comment3.params=
+comment3.target=void\ incValue()
+comment3.text=\n\ Empty\ method.\n
+comment4.params=
+comment4.target=void\ decValue()
+comment4.text=\n\ Empty\ method.\n
+numComments=5

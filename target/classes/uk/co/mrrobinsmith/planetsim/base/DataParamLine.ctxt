@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=param\ lineWidth
+comment0.target=DataParamLine(Parameter,\ int)
+comment1.params=
+comment1.target=void\ createParamLine()
+comment2.params=
+comment2.target=javax.swing.JLabel\ createValueLabel()
+comment2.text=\n\ Creates\ a\ JLabel\ displaying\ the\ value\ of\ this\ ParamLine's\ Parameter.\n\ @param\ param\ the\ Parameter.\n\ @return\ a\ JLabel\ displaying\ the\ Parameter's\ current\ value.\n
+comment3.params=
+comment3.target=void\ updateDisplay()
+comment3.text=\n\ Updates\ the\ Parameter\ value\ displayed\ by\ this\ DataParamLine.\n
+numComments=4

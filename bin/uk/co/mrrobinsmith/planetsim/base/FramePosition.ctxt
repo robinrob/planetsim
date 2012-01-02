@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=frame\ position
+comment0.target=void\ positionFrame(javax.swing.JFrame,\ int)
+comment0.text=\n\ Positions\ a\ JFrame\ on\ the\ screen\ using\ the\ specified\ integer\ position\n\ value,\ e.g.\ FramePosition.NORTH_WEST,\ FramePosition.NORTH_EAST\ etc.\n\ @param\ frame\ the\ JFrame\ to\ be\ position\ on\ the\ screen.\n\ @param\ position\ an\ integer\ value.\n
+comment1.params=frame1\ position\ frame2
+comment1.target=void\ positionFrame(javax.swing.JFrame,\ int,\ javax.swing.JFrame)
+comment1.text=\n\ Positions\ the\ given\ JFrame\ on\ the\ screen\ relative\ to\ another\ JFrame,\n\ using\ the\ specified\ integer\ position\ value,\n\ e.g.\ FramePosition.NORTH_WEST,\ FramePosition.CENTER\ etc.\n\ @param\ frame1\ the\ JFrame\ to\ be\ positioned\ on\ the\ screen.\n\ @param\ position\ an\ integer\ value.\n\ @param\ frame2\ the\ other\ JFrame\ to\ which\ frame1\ is\ aligned.\n
+numComments=2

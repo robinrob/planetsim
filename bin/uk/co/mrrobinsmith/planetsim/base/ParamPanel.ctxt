@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=params
+comment0.target=ParamPanel(Parameter[])
+comment0.text=\n\ Constructor\ for\ InputPanel.\n\ @param\ paramPrompts\ prompts\ for\ the\ parameters\n\ @param\ paramDefaults\ default\ parameters\n
+comment1.params=
+comment1.target=int\ getWidth()
+comment1.text=\n\ Gets\ the\ width\ of\ the\ ParamPanel.\n\ @return\ the\ width\ of\ the\ ParamPanel\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\n\ Gets\ the\ height\ of\ the\ ParamPanel.\n\ @return\ the\ height\ of\ the\ ParamPanel\n
+comment3.params=
+comment3.target=int\ getMaxNameWidth()
+comment3.text=\n\ Gets\ the\ length\ of\ the\ longest\ string\ in\ an\ array\ of\ strings.\n\ @param\ strings\ an\ array\ of\ strings\n\ @return\ the\ length\ of\ the\ longest\ string\n
+comment4.params=
+comment4.target=void\ createPanel()
+comment4.text=\n\ Creates\ the\ panel.\n
+numComments=5

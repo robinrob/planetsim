@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=param\ nameWidth
+comment0.target=AdjustableParamLine(Parameter,\ int)
+comment0.text=\n\ Creates\ a\ new\ AdjustableParamLine\ given\ a\ Parameter\ and\ a\ width\ for\ the\n\ text\ of\ the\ Parameter's\ name\ label.\ This\ width\ should\ be\ at\ least\ equal\n\ to\ the\ number\ of\ characters\ in\ the\ Parameter's\ name\ +\ N_EXTRA_CHARS,\n\ where\ N_EXTRA_CHARS\ is\ defined\ in\ the\ Parameter\ class.\n\ @param\ param\ Parameter\ to\ be\ held\ by\ this\ ParamLine.\n\ @param\ nameWidth\ integer\ width\ for\ the\ Parameter's\ name\ label.\n
+comment1.params=
+comment1.target=void\ createParamLine()
+comment1.text=\n\ Constructs\ the\ AdjustableParamLine;\ used\ by\ the\ constructor.\n
+comment2.params=valueLabel
+comment2.target=javax.swing.JPanel\ createActionPanel(javax.swing.JLabel)
+comment2.text=\n\ Creates\ the\ 'action'\ JPanel\ for\ this\ AdjustableParamLine's\ Parameter.\n\ For\ a\ non-adjustable\ parameter\ the\ 'action'\ panel\ contains\ a\ label\n\ indicating\ that\ this\ parameter's\ value\ is\ fixed.\ For\ an\ adjustable\n\ parameter\ the\ 'action'\ panel\ contains\ buttons\ for\ adjusting\ its\ value.\n\ @return\ the\ JPanel.\n
+comment3.params=valueLabel
+comment3.target=javax.swing.JButton\ createIncrementButton(javax.swing.JLabel)
+comment3.text=\n\ Used\ by\ createActionPanel()\ to\ create\ the\ increment\ button.\n\ @param\ valueLabel\ the\ JLabel\ showing\ the\ Parameter's\ value\ which\ can\ be\n\ incremented\ using\ this\ button.\n\ @return\ the\ JButton.\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=valueLabel
+comment5.target=javax.swing.JButton\ createDecrementButton(javax.swing.JLabel)
+comment5.text=\n\ Used\ by\ createActionPanel()\ to\ create\ the\ decrement\ button.\n\ @param\ valueLabel\ the\ JLabel\ showing\ the\ Parameter's\ value\ which\ can\ be\n\ decremented\ using\ this\ button.\n\ @return\ the\ JButton.\n
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=javax.swing.JLabel\ createValueLabel()
+comment7.text=\n\ Used\ by\ createParamLine()\ to\ create\ a\ JLabel\ displaying\ the\ current\n\ value\ of\ this\ ParamLine's\ Parameter.\n\ @return\ the\ JLabel.\n
+numComments=8

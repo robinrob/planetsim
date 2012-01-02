@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=param\ nameWidth
+comment0.target=ParamLine(Parameter,\ int)
+comment0.text=\n\ Sets\ up\ a\ new\ ParamLine\ given\ a\ Parameter\ and\ an\ integer\ width\ for\ the\n\ text\ of\ the\ Parameter\ label.\ This\ width\ should\ be\ at\ least\ equal\ to\ the\n\ number\ of\ characters\ in\ the\ Parameter's\ name\ +\ N_EXTRA_CHARS.\n\ @param\ param\ Parameter\ to\ be\ held\ by\ this\ ParamLine.\n\ @param\ nameWidth\ integer\ width.\n
+comment1.params=
+comment1.target=void\ createParamLine()
+comment2.params=
+comment2.target=javax.swing.JLabel\ createNameLabel()
+comment2.text=\n\ Creates\ a\ JLabel\ for\ a\ Parameter's\ name.\n\ @param\ param\ a\ Parameter.\n\ @return\ a\ JLabel\ displaying\ the\ Parameter's\ name.\n
+comment3.params=param
+comment3.target=java.lang.String\ getParamValueString(Parameter)
+comment3.text=\n\ Gets\ the\ value\ of\ a\ Parameter\ as\ a\ String.\n\ @param\ param\ a\ Parameter\n\ @return\ a\ String\ representing\ the\ value\ of\ the\ Parameter\ \n
+comment4.params=
+comment4.target=int\ getLineWidth()
+numComments=5

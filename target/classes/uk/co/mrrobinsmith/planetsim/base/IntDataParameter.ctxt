@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ value\ isAdjustable
+comment0.target=IntDataParameter(java.lang.String,\ int,\ boolean)
+comment0.text=\n\ Creates\ a\ new\ IntDataParameter,\ given\ a\ name,\ initial\ value\ and\ a\ boolean\n\ value\ which\ should\ always\ be\ false.\n\ @param\ name\ name\ of\ the\ parameter.\n\ @param\ value\ initial\ value\ of\ the\ parameter.\n\ @param\ isAdjustable\ should\ always\ be\ false\ for\ IntDataParameters.\n
+comment1.params=paramLine
+comment1.target=void\ setParamLine(DataParamLine)
+comment1.text=\n\ Sets\ this\ IntDataParameter's\ parent\ DataParamLine\ for\ displaying\ the\n\ parameter\ in\ a\ GUI.\n\ @param\ paramLine\ the\ DataParamLine\ displaying\ this\ IntDataParameter.\n
+comment2.params=
+comment2.target=void\ incValue()
+comment2.text=\n\ Increments\ the\ value\ of\ this\ IntDataParameter.\n
+comment3.params=
+comment3.target=void\ decValue()
+comment3.text=\n\ Decrements\ the\ value\ of\ this\ IntDataParameter.\n
+numComments=4

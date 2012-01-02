@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=number\ length
+comment0.target=java.lang.String\ rightIntJustify(int,\ int)
+comment0.text=\n\ Right-justifies\ the\ String\ representation\ of\ the\ given\ int,\ given\ the\n\ required\ length\ of\ the\ justified\ String,\ by\ inserting\ left\ spaces.\n\ @param\ number\ the\ int\ to\ justify.\n\ @param\ length\ the\ requied\ length\ of\ the\ justified\ int.\n\ @return\ a\ String\ containing\ the\ right-justified\ int.\n
+comment1.params=number\ length
+comment1.target=java.lang.String\ leftIntJustify(int,\ int)
+comment1.text=\n\ Left-justifies\ the\ String\ representation\ of\ the\ given\ int,\ given\ the\n\ required\ length\ of\ the\ justified\ String,\ by\ inserting\ right\ spaces.\n\ @param\ number\ the\ number\ to\ justify.\n\ @param\ length\ the\ required\ length\ of\ the\ justified\ String.\n\ @return\ a\ String\ containing\ the\ left-justified\ int.\n
+comment2.params=string\ length
+comment2.target=java.lang.String\ rightJustify(java.lang.String,\ int)
+comment2.text=\n\ Right-justifies\ the\ given\ String,\ given\ the\ required\ length\ of\ the\n\ justified\ String,\ by\ inserting\ left\ spaces.\n\ @param\ string\ the\ String\ to\ justify.\n\ @param\ length\ the\ required\ length\ of\ the\ justified\ String.\n\ @return\ the\ right-justified\ String.\n
+comment3.params=string\ length
+comment3.target=java.lang.String\ leftJustify(java.lang.String,\ int)
+comment3.text=\n\ Left-justifies\ the\ given\ String,\ given\ the\ required\ length\ of\ the\n\ justified\ String,\ by\ inserting\ right\ spaces.\n\ @param\ string\ the\ String\ to\ justify.\n\ @param\ length\ the\ required\ length\ of\ the\ justified\ String.\n\ @return\ the\ left-justified\ String.\n
+comment4.params=string\ length
+comment4.target=java.lang.String\ centerJustify(java.lang.String,\ int)
+comment4.text=\n\ Center-justifies\ the\ given\ String,\ given\ the\ required\ length\ of\ the\n\ justified\ String,\ by\ inserting\ left\ and\ right\ spaces\ alternately.\n\ @param\ string\ the\ String\ to\ justify.\n\ @param\ length\ the\ required\ length\ of\ the\ justified\ String.\n\ @return\ the\ center-justified\ String.\n
+comment5.params=color
+comment5.target=java.lang.String\ colorToString(java.awt.Color)
+comment5.text=\n\ Converts\ a\ Color\ object\ to\ its\ String\ name.\n\ @param\ color\ Color\ object.\n\ @return\ a\ String\ containing\ the\ name\ of\ that\ color.\n
+comment6.params=colorName
+comment6.target=java.awt.Color\ stringToColor(java.lang.String)
+comment6.text=\n\ Converts\ a\ color\ name\ to\ the\ color\ object\ of\ that\ name.\n\ @param\ colorName\ a\ String\ containing\ a\ color\ name.\n\ @return\ the\ corresponding\ Color\ object.\n
+numComments=7

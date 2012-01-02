@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ value\ isAdjustable
+comment0.target=IntParameter(java.lang.String,\ int,\ boolean)
+comment0.text=\n\ Constructor\ for\ IntParameter.\n\ @param\ name\ name\ of\ the\ parameter\n\ @param\ value\ value\ of\ the\ parameter\n\ @param\ isDynamic\ whether\ or\ not\ the\ parameter\ is\ adjustable\ while\ the\n\ simulation\ using\ it\ is\ running\n
+comment1.params=
+comment1.target=int\ getValue()
+comment1.text=\n\ Get\ the\ value\ of\ the\ IntParameter.\n\ @return\ the\ value\ of\ the\ parameter\n
+comment2.params=value
+comment2.target=void\ setValue(int)
+comment2.text=\n\ Set\ the\ value\ of\ the\ IntParameter.\n\ @param\ value\ the\ new\ value\ of\ the\ parameter\n
+comment3.params=
+comment3.target=void\ incValue()
+comment3.text=\n\ Increase\ the\ value\ of\ the\ parameter.\n
+comment4.params=
+comment4.target=void\ decValue()
+comment4.text=\n\ Decrease\ the\ value\ of\ the\ parameter.\n
+numComments=5

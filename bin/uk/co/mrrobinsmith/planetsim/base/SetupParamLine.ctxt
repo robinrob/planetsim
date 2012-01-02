@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=param\ nameWidth
+comment0.target=SetupParamLine(Parameter,\ int)
+comment0.text=\n\ Creates\ a\ new\ SetupParamLine\ given\ a\ Parameter\ and\ an\ integer\ width\ for\n\ the\ text\ of\ the\ Parameter's\ name\ label.\n\ @param\ param\ Parameter\ held\ by\ this\ ParamLine.\n\ @param\ nameWidth\ int\ width\ for\ Parameter\ name\ label.\n
+comment1.params=
+comment1.target=void\ createParamLine()
+comment1.text=\n\ Constructs\ the\ SetupParamLine.\n
+comment2.params=
+comment2.target=javax.swing.JTextField\ createParamField()
+comment2.text=\n\ Creates\ a\ JTextField\ for\ this\ SetupParamLine's\ Parameter\ for\ obtaining\n\ user\ input\ to\ set\ its\ value.\n\ @return\ a\ JTextField\ displaying\ the\ current\ value\ of\ the\ Parameter.\n
+comment3.params=
+comment3.target=java.lang.String\ getValueString()
+comment3.text=\n\ Gets\ the\ String\ from\ this\ SetupParamLine's\ text\ field.\n\ @return\ the\ String\ from\ this\ SetupParamLine's\ text\ field.\n
+comment4.params=
+comment4.target=javax.swing.JComboBox\ createColorBox()
+comment4.text=\n\ Creates\ a\ JComboBox\ filled\ with\ strings\ representing\ color\ names.\n
+numComments=5

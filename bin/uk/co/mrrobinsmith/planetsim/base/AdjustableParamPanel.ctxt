@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=params
+comment0.target=AdjustableParamPanel(Parameter[])
+comment0.text=\n\ Creates\ a\ new\ AdjustableParamPanel\ given\ an\ array\ of\ Parameters.\n\ @param\ params\ Parameters\ to\ be\ displayed\ by\ this\ AdjustableParamPanel.\n
+comment1.params=
+comment1.target=void\ createPanel()
+comment1.text=\n\ Constructs\ the\ AdjustableParamPanel;\ used\ by\ the\ constructor.\n
+numComments=2

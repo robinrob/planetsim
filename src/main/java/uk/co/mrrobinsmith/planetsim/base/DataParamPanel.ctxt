@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=params
+comment0.target=DataParamPanel(Parameter[])
+comment0.text=\n\ Creates\ a\ new\ DataParamPanel\ given\ an\ array\ of\ Parameters.\n\ @param\ params\ Parameters\ to\ be\ displayed\ by\ this\ DataParamPanel.\n
+comment1.params=
+comment1.target=void\ createPanel()
+comment1.text=\n\ Constructs\ the\ DataParamPanel.\n
+numComments=2

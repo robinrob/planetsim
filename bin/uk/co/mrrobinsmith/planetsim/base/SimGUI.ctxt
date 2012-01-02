@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=time
+comment0.target=void\ wait(int)
+comment0.text=\n\ Pause\ the\ GUI\ thread\ for\ a\ specified\ number\ of\ milliseconds.\n\ @param\ time\ an\ integer\ number\ of\ milliseconds\n
+comment1.params=
+comment1.target=void\ showSimView()
+comment1.text=\n\ Shows\ the\ simulation\ view\ ready\ for\ the\ simulation\ to\ begin.\n
+comment2.params=
+comment2.target=void\ refresh()
+comment2.text=\n\ Refreshes\ the\ simulation\ displays.\n
+comment3.params=
+comment3.target=void\ resetGUI()
+comment3.text=\n\ Resets\ the\ GUI\ to\ the\ setup\ window.\n
+comment4.params=
+comment4.target=void\ simFinished()
+comment4.text=\n\ Makes\ changes\ to\ the\ GUI\ relevant\ to\ the\ simulation\ finishing.\n
+numComments=5
